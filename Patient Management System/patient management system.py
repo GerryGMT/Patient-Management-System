@@ -3,6 +3,9 @@ import tkinter as tk
 import tkinter.ttk as ttk
 import tkinter.scrolledtext as Tk
 
+import login
+# To access the functions in login.py, for example: login.register
+
 # Create a window .
 window = tk.Tk()
 window.title("                                                                                                                                                                                Patient's Management System :")
